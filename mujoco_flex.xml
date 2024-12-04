@@ -1,0 +1,18 @@
+<mujoco>
+  <worldbody>
+    <body name="softbody">
+      <flexcomp type="grid" mass="5" dim="3" radius="0.05">
+        <vertex>-50.0 0.0 0.0</vertex>
+        <vertex>-50.0 0.0 10.0</vertex>
+        <vertex>-50.0 100.0 0.0</vertex>
+        <vertex>-50.0 100.0 10.0</vertex>
+        <vertex>150.0 100.0 0.0</vertex>
+        <vertex>150.0 100.0 10.0</vertex>
+        <vertex>200.0 0.0 0.0</vertex>
+        <vertex>200.0 0.0 10.0</vertex>
+        <vertex>200.0 50.0 0.0</vertex>
+        <vertex>200.0 50.0 10.0</vertex>
+      </flexcomp>
+    </body>
+  </worldbody>
+</mujoco>

@@ -1,0 +1,400 @@
+<joint name="joint 1" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 2" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 3" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 4" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 5" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 6" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 7" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 8" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 9" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 10" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 11" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 12" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 13" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 14" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 15" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 16" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 17" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 18" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 19" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 20" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 21" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 22" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 23" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 24" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 25" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 26" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 27" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 28" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 29" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 30" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 31" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 32" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 33" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 34" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 35" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 36" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 37" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 38" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 39" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 40" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 41" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 42" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 43" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 44" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 45" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 46" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 47" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 48" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 49" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 50" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 51" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 52" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 53" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 54" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 55" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 56" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 57" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 58" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 59" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 60" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 61" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 62" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 63" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 64" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 65" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 66" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 67" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 68" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 69" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 70" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 71" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 72" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 73" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 74" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 75" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 76" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 77" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 78" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 79" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 80" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 81" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 82" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 83" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 84" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 85" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 86" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 87" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 88" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 89" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 90" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 91" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 92" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 93" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 94" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 95" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 96" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 97" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 98" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 99" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 100" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 101" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 102" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 103" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 104" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 105" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 106" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 107" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 108" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 109" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 110" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 111" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 112" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 113" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 114" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 115" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 116" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 117" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 118" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 119" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 120" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 121" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 122" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 123" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 124" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 125" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 126" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 127" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 128" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 129" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 130" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 131" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 132" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 133" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 134" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 135" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 136" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 137" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 138" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 139" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 140" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 141" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 142" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 143" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 144" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 145" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 146" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 147" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 148" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 149" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 150" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 151" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 152" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 153" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 154" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 155" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 156" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 157" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 158" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 159" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 160" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 161" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 162" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 163" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 164" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 165" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 166" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 167" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 168" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 169" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 170" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 171" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 172" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 173" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 174" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 175" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 176" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 177" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 178" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 179" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 180" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 181" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 182" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 183" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 184" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 185" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 186" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 187" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 188" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 189" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 190" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 191" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 192" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 193" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 194" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 195" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 196" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 197" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 198" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 199" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
+<joint name="joint 200" type="hinge" pos="0 0 0" axis="0 0 1" size="0.0002"/>
+<geom type="box" size="0.001 0.001 0.001" />
