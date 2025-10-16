@@ -18,7 +18,7 @@ window = glfw.create_window(640, 480, "MuJoCo Viewer", None, None)
 glfw.make_context_current(window)
 
 # 加载 MuJoCo 模型
-model = mujoco.MjModel.from_xml_path('C:/Users/35389/Desktop/Robot/mujoco_menagerie-main/mujoco_menagerie-main/shadow_hand/left_hand.xml')
+model = mujoco.MjModel.from_xml_path('C:\D\PC desktop\Robot\mujoco_menagerie-main\mujoco_menagerie-main\shadow_hand/left_hand.xml')
 data = mujoco.MjData(model)
 
 # 创建渲染场景和上下文

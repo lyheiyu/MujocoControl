@@ -1,0 +1,11 @@
+[project]
+name="MujocoControl"
+version="0.1.0"
+dependencies=[
+    "glfw>=2.10.0",
+    "mediapipe>=0.10.14",
+    "mujoco",
+    "numpy>=2.2.6",
+    "opencv-contrib-python>=4.11.0.86",
+    "opencv-python>=4.11.0.86",
+]

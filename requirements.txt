@@ -1,0 +1,5 @@
+mediapipe
+mujoco
+glfw
+numpy
+opencv
